@@ -115,5 +115,6 @@ void docFileSanCo(char *tenfile, SANCO sc[], int &sophantu)
 void xuatThongTinSC(SANCO sc)
 {
 	printf("%s - %d\n",sc.maSan,sc.loaiSan);
+	printf("%s - %d\n",sc.maSan,sc.loaiSan);//hehe
 }
 

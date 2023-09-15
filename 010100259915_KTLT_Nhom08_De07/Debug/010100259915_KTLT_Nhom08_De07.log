@@ -1,23 +1,23 @@
-﻿Build started 08/09/2021 17:48:32.
-     1>Project "C:\Users\PC\OneDrive\Tài liệu\2001202068\010100259915_KTLT_Nhom08_De07\010100259915_KTLT_Nhom08_De07\010100259915_KTLT_Nhom08_De07.vcxproj" on node 2 (Build target(s)).
+﻿Build started 15/09/2023 07:54:00.
+     1>Project "E:\LuuDuLieuSinhVien\Test\Ky-Thuat-Lap-Trinh\010100259915_KTLT_Nhom08_De07\010100259915_KTLT_Nhom08_De07.vcxproj" on node 2 (Build target(s)).
      1>ClCompile:
-         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt BTL_KTLT.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt BTL_KTLT.cpp
          BTL_KTLT.cpp
-     1>c:\users\pc\onedrive\tài liệu\2001202068\010100259915_ktlt_nhom08_de07\010100259915_ktlt_nhom08_de07\btl_ktlt.cpp(73): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
-                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\conio.h(131) : see declaration of 'getch'
-     1>c:\users\pc\onedrive\tài liệu\2001202068\010100259915_ktlt_nhom08_de07\010100259915_ktlt_nhom08_de07\btl_ktlt.cpp(82): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(218) : see declaration of 'fopen'
-     1>c:\users\pc\onedrive\tài liệu\2001202068\010100259915_ktlt_nhom08_de07\010100259915_ktlt_nhom08_de07\btl_ktlt.cpp(88): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(237) : see declaration of 'fscanf'
-     1>c:\users\pc\onedrive\tài liệu\2001202068\010100259915_ktlt_nhom08_de07\010100259915_ktlt_nhom08_de07\btl_ktlt.cpp(101): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(218) : see declaration of 'fopen'
-     1>c:\users\pc\onedrive\tài liệu\2001202068\010100259915_ktlt_nhom08_de07\010100259915_ktlt_nhom08_de07\btl_ktlt.cpp(107): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(237) : see declaration of 'fscanf'
+     1>e:\luudulieusinhvien\test\ky-thuat-lap-trinh\010100259915_ktlt_nhom08_de07\btl_ktlt.cpp(73): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\conio.h(131) : see declaration of 'getch'
+     1>e:\luudulieusinhvien\test\ky-thuat-lap-trinh\010100259915_ktlt_nhom08_de07\btl_ktlt.cpp(84): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(211) : see declaration of 'fopen'
+     1>e:\luudulieusinhvien\test\ky-thuat-lap-trinh\010100259915_ktlt_nhom08_de07\btl_ktlt.cpp(90): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(230) : see declaration of 'fscanf'
+     1>e:\luudulieusinhvien\test\ky-thuat-lap-trinh\010100259915_ktlt_nhom08_de07\btl_ktlt.cpp(103): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(211) : see declaration of 'fopen'
+     1>e:\luudulieusinhvien\test\ky-thuat-lap-trinh\010100259915_ktlt_nhom08_de07\btl_ktlt.cpp(109): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(230) : see declaration of 'fscanf'
        Link:
-         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\PC\OneDrive\Tài liệu\2001202068\010100259915_KTLT_Nhom08_De07\Debug\010100259915_KTLT_Nhom08_De07.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\PC\OneDrive\Tài liệu\2001202068\010100259915_KTLT_Nhom08_De07\Debug\010100259915_KTLT_Nhom08_De07.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\PC\OneDrive\Tài liệu\2001202068\010100259915_KTLT_Nhom08_De07\Debug\010100259915_KTLT_Nhom08_De07.lib" /MACHINE:X86 Debug\BTL_KTLT.obj
-         010100259915_KTLT_Nhom08_De07.vcxproj -> C:\Users\PC\OneDrive\Tài liệu\2001202068\010100259915_KTLT_Nhom08_De07\Debug\010100259915_KTLT_Nhom08_De07.exe
-     1>Done Building Project "C:\Users\PC\OneDrive\Tài liệu\2001202068\010100259915_KTLT_Nhom08_De07\010100259915_KTLT_Nhom08_De07\010100259915_KTLT_Nhom08_De07.vcxproj" (Build target(s)).
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\LuuDuLieuSinhVien\Test\Ky-Thuat-Lap-Trinh\Debug\010100259915_KTLT_Nhom08_De07.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\LuuDuLieuSinhVien\Test\Ky-Thuat-Lap-Trinh\Debug\010100259915_KTLT_Nhom08_De07.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\LuuDuLieuSinhVien\Test\Ky-Thuat-Lap-Trinh\Debug\010100259915_KTLT_Nhom08_De07.lib" /MACHINE:X86 Debug\BTL_KTLT.obj
+         010100259915_KTLT_Nhom08_De07.vcxproj -> E:\LuuDuLieuSinhVien\Test\Ky-Thuat-Lap-Trinh\Debug\010100259915_KTLT_Nhom08_De07.exe
+     1>Done Building Project "E:\LuuDuLieuSinhVien\Test\Ky-Thuat-Lap-Trinh\010100259915_KTLT_Nhom08_De07\010100259915_KTLT_Nhom08_De07.vcxproj" (Build target(s)).
 
 Build succeeded.
 
-Time Elapsed 00:00:00.80
+Time Elapsed 00:00:01.86
